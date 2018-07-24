@@ -2,7 +2,7 @@
  microbot package
 */
  //% weight=10 icon="\uf013" color=#2896ff
-namespace microbot {
+namespace microbit {
 
     export enum Servos {
 		S1 = 0x01,
