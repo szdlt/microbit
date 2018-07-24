@@ -1,5 +1,5 @@
 {
-	"microbit.microbotInit":"Microbit板初始化，请在开机时执行",
+	"microbit.microbitInit":"Microbit板初始化，请在开机时执行",
 	"microbit.setServo":"设置1到8号舵机角度，角度范围0~180",
 	"microbit.setMotorSpeed":"设置马达1和马达2的速度，速度范围-100到100，可控制坦克车行进和转弯",
 	"microbit.Ultrasonic":"获取超声波检测到障碍物的距离",
